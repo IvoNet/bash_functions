@@ -1,0 +1,9 @@
+application:
+  name: FooBarBaz
+  version: 1.0
+
+verbose: off
+
+tree:
+  levels:
+    deep: works
